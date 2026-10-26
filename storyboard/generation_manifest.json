@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/scene_001.png",
+    "generator": "image_gen",
+    "original_file": "exec-5049d7c1-9f3e-4a8b-b6a7-2115ae83d283.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Wide panorama of Vladimir Russia at blue hour, white limestone Assumption Cathedral and golden domes on the high bank above the Klyazma, low historic skyline, subtle river mist, warm windows, blue and peach sky.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/scene_002.png",
+    "generator": "image_gen",
+    "original_file": "exec-3bb139ff-a39e-4f18-8ffe-4fd1aacf1003.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Authentic Golden Gate of Vladimir Russia at dusk, the single massive white limestone arch topped by its small gate church and golden dome, modest historic Russian streets, warm architectural illumination, no crowds, no invented landmarks.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/scene_003.png",
+    "generator": "image_gen",
+    "original_file": "exec-559dcd75-50ae-472a-906a-1e48e4805fb8.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Intimate exterior view of a typical Russian five-storey brick residential building at blue hour, several warm apartment windows, curtain silhouettes and a mother reading to her child visible softly through one window, leafy courtyard, quiet ordinary life.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/scene_004.png",
+    "generator": "image_gen",
+    "original_file": "exec-52d4ac60-d7e2-4e5b-be6c-be6eff711d75.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Wet quiet residential street in Vladimir region Russia at night, modest brick and plaster buildings, birch trees, warm streetlamps reflected on asphalt, no American road markings or architecture, a distant pedestrian.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/scene_005.png",
+    "generator": "image_gen",
+    "original_file": "exec-e19604d8-9061-490b-8d34-26997c677dc2.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Exterior of an ordinary modest Russian municipal office building at night, illuminated second floor office windows, two adults approaching entrance for night duty, no signs or logos, human scale, blue night warm interiors.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 6,
+    "image": "assets/images/scene_006.png",
+    "generator": "image_gen",
+    "original_file": "exec-51e96c3c-314a-407b-bdb0-c836ce91c7c3.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Two fictional Russian emergency call centre staff, a grey haired man around 50 and a woman around 30, arriving through an ordinary office corridor, simple navy work polo shirts without insignia, relaxed purposeful expressions, warm practical fluorescent lighting.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 7,
+    "image": "assets/images/scene_007.png",
+    "generator": "image_gen",
+    "original_file": "exec-7a245607-65d8-45ed-b9c8-14cf202b153d.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Fictional Russian woman dispatcher aged 45 with short chestnut hair sitting at a simple desk, gently adjusting a SMALL lightweight single-ear office headset with slim flexible microphone boom, ordinary monitor and keyboard, honey coloured wooden desk partitions, navy polo, candid half-body portrait.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 8,
+    "image": "assets/images/scene_008.png",
+    "generator": "image_gen",
+    "original_file": "exec-c401c570-774a-42d1-9a56-5d54a7891bc4.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Wide authentic ordinary Russian emergency call centre at night, six different men and women ages 25 to 60 at separate desks divided by honey coloured wooden cubicle partitions, basic office monitors keyboards landline phones swivel chairs, small lightweight office headsets with flexible microphone booms, plain navy polo shirts, realistic fluorescent ceiling and screen lighting, no futuristic control room, screens defocused.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 9,
+    "image": "assets/images/scene_009.png",
+    "generator": "image_gen",
+    "original_file": "exec-c34083a7-3202-4573-9ad2-398ea7d8f4a7.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Cinematic close-up of a standard black corded landline telephone on a Russian office desk beside a keyboard, small indicator glowing, honey coloured wooden partition behind, narrow depth of field, no readable digits or display text. COMPOSITION PRIORITY: camera extremely close to the curved black handset and coiled telephone cord; the keypad and any display are COMPLETELY OUTSIDE THE FRAME, not visible at all. Only handset, cord, wooden desk and blurred office background. Telephone photographed from low side angle. No buttons, digits or lettering anywhere.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 10,
+    "image": "assets/images/scene_010.png",
+    "generator": "image_gen",
+    "original_file": "exec-096653c8-b695-4b31-ab0c-453b07c0d205.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Close view of one anatomically natural adult female hand reaching to press a single answer button on an ordinary black desk telephone, keyboard nearby, navy sleeve, ordinary wooden partition Russian call centre, no readable text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 11,
+    "image": "assets/images/scene_011.png",
+    "generator": "image_gen",
+    "original_file": "exec-fbd0e925-36ad-4de2-92b3-130257da7697.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Close-up fictional Russian female dispatcher aged 32 with brown hair tied back, small single ear headset with flexible microphone boom, focused compassionate eyes listening, natural skin texture, ordinary wooden office partitions softly blurred, navy polo no text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 12,
+    "image": "assets/images/scene_012.png",
+    "generator": "image_gen",
+    "original_file": "exec-ee595249-ac19-4dd2-aaa0-ab8449d0b504.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Fictional middle aged Russian male dispatcher with receding hair wearing small office headset and plain navy polo, side profile seated typing at ordinary monitor, wooden desk partitions, dim office and realistic screen light, interface deliberately out of focus with no personal data.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 13,
+    "image": "assets/images/scene_013.png",
+    "generator": "image_gen",
+    "original_file": "exec-37097df4-c6a0-477c-87a7-63c15f4c7063.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Close-up of TWO anatomically correct adult hands typing on ordinary black computer keyboard, navy sleeves, wooden office desk, soft monitor light, tactile documentary detail, no readable screen.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 14,
+    "image": "assets/images/scene_014.png",
+    "generator": "image_gen",
+    "original_file": "exec-ff83c7e1-5138-4a79-8697-47e971849c02.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Fictional Russian woman around 40 in an ordinary modest apartment speaking on a mobile phone, worried but composed, warm kitchen light, curtain and kettle in soft background, no fire or injury, compassionate intimate portrait, natural hands.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 15,
+    "image": "assets/images/scene_015.png",
+    "generator": "image_gen",
+    "original_file": "exec-9f4f1417-95d1-4a00-b29c-6977b5418ea2.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Fictional Russian female dispatcher aged 55 with short grey hair, calm reassuring expression speaking into small lightweight office headset with flexible boom, ordinary screen and honey coloured wooden desk partitions, plain navy polo, natural skin.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 16,
+    "image": "assets/images/scene_016.png",
+    "generator": "image_gen",
+    "original_file": "exec-b2ae9b18-c418-43fa-912f-54db536e3499.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Two Russian firefighters in practical tan turnout gear with reflective yellow silver stripes preparing at a real modest fire station equipment bay, one checking helmet strap, realistic protective equipment, no American insignia, vehicle blurred background.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 17,
+    "image": "assets/images/scene_017.png",
+    "generator": "image_gen",
+    "original_file": "exec-41c25d48-361f-451f-a37b-b0782d382120.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. A realistic red and white Russian KAMAZ fire engine driving slowly out of a modest fire depot at blue hour, blue emergency beacons reflecting on wet ground, authentic Russian fire engine proportions, no readable text, no 112 number, no American trucks.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 18,
+    "image": "assets/images/scene_018.png",
+    "generator": "image_gen",
+    "original_file": "exec-0dfd8c58-18fd-4d68-a54f-973bb4d66e22.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Two Russian police officers in dark navy practical uniforms standing beside a white Russian Lada police sedan with blue lateral stripe at night, one checking a radio, natural anatomy, no readable markings, no 112 or foreign insignia.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 19,
+    "image": "assets/images/scene_019.png",
+    "generator": "image_gen",
+    "original_file": "exec-f3c57ca5-0d42-4e43-a5d6-834be291b933.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Russian paramedic team of a woman and a man wearing practical red and navy medical work jackets preparing a medical bag beside a white GAZelle ambulance with red stripe and red medical cross, night station yard, no readable writing or numbers.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 20,
+    "image": "assets/images/scene_020.png",
+    "generator": "image_gen",
+    "original_file": "exec-3970f115-f2e3-4f39-accd-2a9c94e20018.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. White Russian GAZelle Next ambulance with red horizontal stripe and blue roof beacon moving along a modest night street in Vladimir region, authentic Russian urban surroundings, gentle natural motion blur and reflections, no readable words, no 112, no American ambulance.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 21,
+    "image": "assets/images/scene_021.png",
+    "generator": "image_gen",
+    "original_file": "exec-e166c44c-c830-416a-bc95-7911f781207d.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Russian gas emergency technician in practical navy coveralls and protective helmet checking an OUTDOOR yellow gas pipe valve and pressure gauge with an appropriate handheld gas detector, residential brick wall, no open flames, safe realistic procedure, no logos.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 22,
+    "image": "assets/images/scene_022.png",
+    "generator": "image_gen",
+    "original_file": "exec-f252a730-35ec-4d31-9e0d-888df75a71a0.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Two Russian rescue workers in dark navy and muted orange practical protective jackets checking rope helmets and a rescue bag next to an ordinary rescue base, night practical work lighting, no weapons, no readable insignia, anatomically natural.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 23,
+    "image": "assets/images/scene_023.png",
+    "generator": "image_gen",
+    "original_file": "exec-a83a8680-f466-42fe-ae0f-4d7b6530365c.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Russian fire crew working at safe distance outside a modest brick outbuilding with restrained smoke and a small localized orange glow in one opening, water hose deployed, realistic restrained emergency response, no huge explosion, no victims or injury, blue beacon mixed with practical light.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 24,
+    "image": "assets/images/scene_024.png",
+    "generator": "image_gen",
+    "original_file": "exec-db473fa1-669e-4dc8-a2f3-f7d4c36b6c59.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Russian firefighter wearing tan protective gear helping a fully clothed elderly woman in a coat walk safely away from a lightly smoky residential entrance, no visible flame or injury, calm reassuring gesture, two separate natural hands, cinematic human dignity.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 25,
+    "image": "assets/images/scene_025.png",
+    "generator": "image_gen",
+    "original_file": "exec-fbd87ed6-de1d-423c-ac59-adfc3f52c54c.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Russian woman paramedic in red navy uniform kneeling beside a conscious middle aged man seated safely on a low bench, checking a blood pressure cuff on his arm, colleague holding medical bag, ordinary Russian courtyard, no blood no injury, compassionate restrained realism.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 26,
+    "image": "assets/images/scene_026.png",
+    "generator": "image_gen",
+    "original_file": "exec-d674481e-d5c6-4738-ae2e-b7dfbb9e2f74.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Russian policewoman in navy uniform crouching at respectful distance to speak reassuringly to a lost fully clothed child around seven holding a soft toy, safe illuminated Russian pedestrian square, another officer far behind, kind expression, no readable insignia.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 27,
+    "image": "assets/images/scene_027.png",
+    "generator": "image_gen",
+    "original_file": "exec-1ae35f1f-b6d9-4ff5-ae18-56ecd6842d86.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Two Russian rescuers on a gentle woodland embankment assisting a tired uninjured adult hiker with a safety rope and support at elbow, birch woodland, realistic ropes and harness, safe controlled rescue, no dramatic cliff or injury.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 28,
+    "image": "assets/images/scene_028.png",
+    "generator": "image_gen",
+    "original_file": "exec-6330f35a-38ca-400b-a869-6eaeafa208b9.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Two Russian gas emergency technicians in navy coveralls and helmets safely inspecting exterior yellow gas pipes outside a typical Russian apartment building, one holding a gas detector, early blue hour, no fire, no excavations, no text or emblems.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 29,
+    "image": "assets/images/scene_029.png",
+    "generator": "image_gen",
+    "original_file": "exec-72dfa675-3793-4eee-841c-5eeba8d1937c.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Intimate close-up of a rescuer's gloved hand gently supporting an elderly person's natural bare hand, soft navy orange sleeve, warm practical light against blurred Russian courtyard, exactly two hands with realistic anatomy, human reassurance, no wounds.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 30,
+    "image": "assets/images/scene_030.png",
+    "generator": "image_gen",
+    "original_file": "exec-62bc802a-cf74-48dc-a729-6d68a94465dd.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Wide view from aisle of an ordinary Russian call centre during busy night shift, different adult women and men in plain navy polos working separately, honey coloured wooden partitions ordinary monitors landline telephones, compact office headsets, realistic office light, no giant wall screens, no readable interface.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 31,
+    "image": "assets/images/scene_031.png",
+    "generator": "image_gen",
+    "original_file": "exec-64d54d8d-9366-4bc3-8c74-a7acbe653539.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Medium side view of three DIFFERENT Russian emergency dispatchers at adjacent wooden-partition workstations, a young dark haired man, a middle aged woman and a senior man all speaking quietly through small headsets, shallow depth of field, no data visible.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 32,
+    "image": "assets/images/scene_032.png",
+    "generator": "image_gen",
+    "original_file": "exec-a2193d19-96cb-4746-aea1-64aa0ff3fc3a.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Fictional Russian woman dispatcher around 50 with light brown hair and subtle tired eyes taking a quiet breath between calls, small office headset resting naturally, navy polo, soft screen light and wooden partition, dignified natural face, no exaggerated tears.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 33,
+    "image": "assets/images/scene_033.png",
+    "generator": "image_gen",
+    "original_file": "exec-df5ad596-c1f5-48e3-99e1-d9be3fd72c77.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Close-up of a fictional Russian male dispatcher around 40 with short dark hair and light beard, small office headset and slim microphone boom, deeply attentive calm gaze at eye level, ordinary office wooden partition background, no text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 34,
+    "image": "assets/images/scene_034.png",
+    "generator": "image_gen",
+    "original_file": "exec-60e97535-3c6c-4ec5-9409-bbf349a83178.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Two fictional Russian dispatchers of different ages, older woman quietly pointing to an out-of-focus ordinary computer screen while younger male colleague listens, both navy polo shirts and small office headsets, honey coloured partitions, natural respectful teamwork, no readable data.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 35,
+    "image": "assets/images/scene_035.png",
+    "generator": "image_gen",
+    "original_file": "exec-6fe9ab95-8ca0-4b8b-b9b7-ed6d9afdbd50.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Three fictional Russian call centre colleagues, two women and a man, discussing work quietly behind wooden partition near ordinary monitor, diverse ages 30 to 60, plain navy clothes, compact headsets, realistic office rather than command centre, no readable documents.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 36,
+    "image": "assets/images/scene_036.png",
+    "generator": "image_gen",
+    "original_file": "exec-2bb64ad4-9502-46dc-ac13-2b857724d40f.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Macro still life of a SMALL lightweight black office headset with thin flexible microphone boom lying beside a normal keyboard and corded telephone on a Russian office desk, honey coloured wooden partition, natural wear, gentle warm practical lighting, no text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 37,
+    "image": "assets/images/scene_037.png",
+    "generator": "image_gen",
+    "original_file": "exec-8a05ce19-3056-4392-b65a-8dc24a025623.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Ceramic cup of tea on a coaster safely away from a keyboard at an ordinary Russian night shift office desk, hand-written notes deliberately turned face down, soft monitor light, wooden partition, quiet human detail, no readable text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 38,
+    "image": "assets/images/scene_038.png",
+    "generator": "image_gen",
+    "original_file": "exec-fa1f9f8a-3b7f-4ede-9b9b-f9ec8ff8a632.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Early dawn light through a plain Russian office window beside a dispatcher workstation, honey coloured wooden divider, normal monitor keyboard and small headset, one fictional female operator seen in soft profile still working, pale gold light mixing with cool monitor illumination.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 39,
+    "image": "assets/images/scene_039.png",
+    "generator": "image_gen",
+    "original_file": "exec-8eeb2c63-2bf1-4650-b956-12dd2e3be7e8.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Three Russian firefighters returning calmly to their station after a completed call, tan protective clothing with realistic soot traces but no injury, tired relieved expressions, subtle dawn light, authentic red white Russian fire engine blurred behind, no readable labels.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 40,
+    "image": "assets/images/scene_040.png",
+    "generator": "image_gen",
+    "original_file": "exec-1a77221c-f129-4d1c-bc25-5631a305d3dc.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. A Russian male and female paramedic beside a parked white GAZelle ambulance with red stripe and red medical cross in soft early morning, holding a closed medical bag, restrained warm smiles, no text no 112, real Russian residential courtyard.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 41,
+    "image": "assets/images/scene_041.png",
+    "generator": "image_gen",
+    "original_file": "exec-f794f687-028d-429b-8360-3bdd926953a9.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Two Russian police officers in navy uniforms helping an elderly civilian carry a modest bag across a safe residential courtyard, normal white blue Lada police car far background, gentle morning light, no weapons in focus, no readable text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 42,
+    "image": "assets/images/scene_042.png",
+    "generator": "image_gen",
+    "original_file": "exec-db75e909-3f72-4cf8-a951-53617fee9807.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Two Russian rescuers in navy and muted orange clothing packing coiled rope and helmets after a completed woodland rescue, sunrise through birch trees, quiet relief, no injured people, natural work equipment and anatomy.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 43,
+    "image": "assets/images/scene_043.png",
+    "generator": "image_gen",
+    "original_file": "exec-149ec134-3c12-480e-a192-f1f6d219cd2d.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Wide daylight view of ordinary Russian emergency call centre, different fictional men and women ages 25 to 60 at honey coloured wooden cubicles, basic office monitors desk phones swivel chairs, lightweight office headsets, plain navy polos, no logos, natural sunlight.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 44,
+    "image": "assets/images/scene_044.png",
+    "generator": "image_gen",
+    "original_file": "exec-6baec876-8b34-40a2-a5ac-5c8db5605389.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Close natural portrait of a fictional Russian woman dispatcher around 38 with dark blonde hair and small lightweight headset, a tiny relieved compassionate smile after a call, natural skin and eyes, warm dawn light, honey coloured office partition background, navy polo.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 45,
+    "image": "assets/images/scene_045.png",
+    "generator": "image_gen",
+    "original_file": "exec-4cf6636e-12f1-480a-942a-faad3590daa6.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. ONE cohesive cinematic group photograph in an ordinary Russian municipal courtyard at dawn: six fictional adults standing naturally together, a navy polo call dispatcher with no headset, a tan geared firefighter holding helmet, a navy police officer, a red navy paramedic, a navy orange rescuer and a gas technician in work overalls with helmet. All in ONE real scene with coherent light and perspective, no composite montage, no vehicles in focus, no logos or legible text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 46,
+    "image": "assets/images/scene_046.png",
+    "generator": "image_gen",
+    "original_file": "exec-e24061fb-dce3-4c73-9c05-268c65f35cdf.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Expansive authentic Vladimir Russia panorama at golden sunrise, white limestone Assumption Cathedral with golden domes on high green bank, mist above Klyazma river, warm pale sky and quiet low historic skyline, realistic architectural proportions, hopeful serene cinema.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 47,
+    "image": "assets/images/scene_047.png",
+    "generator": "image_gen",
+    "original_file": "exec-b23a66f5-053a-4c88-b7d8-a13e4c613803.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Fictional young Russian male dispatcher around 28 answering the next call at a normal office desk, small single ear headset flexible boom, honey coloured wooden partition, warm morning light, ordinary keyboard monitor and landline phone, plain navy polo, no readable screen.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 48,
+    "image": "assets/images/scene_048.png",
+    "generator": "image_gen",
+    "original_file": "exec-74658413-50e6-4978-80f2-5cacde6faf4d.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Cinematic close detail of a compact black single ear office headset and thin flexible microphone boom being worn naturally by a fictional female dispatcher, soft cheek profile and ear, morning light, shallow depth of field, no oversized headphones no text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 49,
+    "image": "assets/images/scene_049.png",
+    "generator": "image_gen",
+    "original_file": "exec-3ef276b6-e5ef-45f7-a3f8-7ed3cf2ac8e5.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Close-up fictional Russian senior female dispatcher around 58 with grey brown short hair and small office headset, composed reassuring eyes and subtle smile, natural skin texture, warm dawn side light, navy polo, ordinary blurred wooden office partitions.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 50,
+    "image": "assets/images/scene_050.png",
+    "generator": "image_gen",
+    "original_file": "exec-67ec9136-7e7f-4670-a742-c6e19dffd94c.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Quiet landscape of Vladimir region Russia at sunrise, winding Klyazma river, meadow with morning mist, birch woodland and small traditional village far away with a modest white church, natural golden light, no mountains, no text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 51,
+    "image": "assets/images/scene_051.png",
+    "generator": "image_gen",
+    "original_file": "exec-05eee7e8-5547-4bf4-bd32-f8124019c9a1.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Single peaceful wide scene of a village home in Vladimir region with a warm lit window at sunrise, wooden fence, birch tree, gentle mist and open luminous sky occupying upper half with ample clean space for later 112 editorial typography, no generated text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  },
+  {
+    "id": 52,
+    "image": "assets/images/scene_052.png",
+    "generator": "image_gen",
+    "original_file": "exec-da857862-6675-48b0-be0d-78e081516a5c.png",
+    "prompt": "ONE standalone full-frame photorealistic cinematic photograph, landscape 16:9. Exactly ONE scene, no collage, no grid, no split screen, no poster, no inset pictures, no watermark. Russian cinema and documentary photography, physically plausible lighting, natural skin and anatomy, restrained film texture, 35mm lens aesthetic. All locations in Vladimir region Russia; authentic contemporary Russian equipment, no American vehicles uniforms road markings architecture flags or badges. All people fictional, varied ages and faces. No blood, severe injury, death or sensational disaster. Do not generate lettering, readable signs, interfaces, personal information, fabricated logos or numbers. NEVER depict a dedicated 112 response vehicle. Dispatchers only work in office with compact headsets and WOODEN partitions, ordinary office equipment. Single majestic but restrained wide dawn landscape of Vladimir region: sun just above a distant low forest horizon, Klyazma river reflecting gold, calm green meadow in foreground, generous uncluttered deep blue and warm pale sky for later final typography, ONE natural scene, no people or text.",
+    "normalization": "FFmpeg scale to cover 1920x1080, centered crop, square pixels"
+  }
+]
